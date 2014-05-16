@@ -1,0 +1,12 @@
+{
+  "name" : "shoelace-ui-margin",
+  "version" : "0.0.1",
+  "description" : "`margin` transparent mixin",
+  "repository" : "https://github.com/shoelace-ui/margin.git",
+  "keywords" : ["stylus", "shoelace", "margin"],
+  "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license" : "MIT",
+  "dependencies": {
+    "shoelace-ui-spacing": "git+https://github.com/shoelace-ui/spacing.git"
+  }
+}
